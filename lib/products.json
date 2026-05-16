@@ -1,0 +1,4940 @@
+[
+  {
+    "id": 9035060019428,
+    "handle": "pink-handle-fold-out-knife",
+    "title": "Pink Handle Front Loading Switchblade",
+    "description": "Pink Handle Front Loading Switchblade",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife18.jpg?v=1778537993",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908102402276,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035057856740,
+    "handle": "silver-handle-switchblade",
+    "title": "Silver Handle Switchblade",
+    "description": "Silver Handle Switchblade",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 29,
+    "maxPrice": 29,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife17.jpg?v=1778537937",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908099944676,
+        "title": "Default Title",
+        "price": 29,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035053269220,
+    "handle": "black-handle-folding-knife",
+    "title": "Black Handle Folding Knife",
+    "description": "Black Handle Folding Knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife16.jpg?v=1778537841",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908095160548,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035049107684,
+    "handle": "u-s-flag-with-eagle",
+    "title": "U.S. Flag with Eagle",
+    "description": "U.S. Flag with Eagle Folding Knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife15.jpg?v=1778537744",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908089884900,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035047731428,
+    "handle": "blue-handle-folding-knife",
+    "title": "Blue Handle Folding Knife",
+    "description": "Blue Handle Folding Knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife14.jpg?v=1778537675",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908088246500,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035045437668,
+    "handle": "u-s-flag",
+    "title": "U.S. Flag",
+    "description": "U.S. Flag Boxcutter switchblade knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife13.jpg?v=1778537617",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908084314340,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035041833188,
+    "handle": "mini-stiletto-pink-handle",
+    "title": "Mini Stiletto Pink Handle",
+    "description": "Mini Stiletto Pink Handle switchblade knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife12.jpg?v=1778537550",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908078579940,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035039867108,
+    "handle": "mini-stiletto-grey-handle",
+    "title": "Mini Stiletto Grey Handle",
+    "description": "Mini Stiletto Grey Handle knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife11.jpg?v=1778537475",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908074320100,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035037769956,
+    "handle": "pearl-handle",
+    "title": "Pearl Handle",
+    "description": "Faux Pearl Handle switchblade knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 29,
+    "maxPrice": 29,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife10.jpg?v=1778537399",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908067111140,
+        "title": "Default Title",
+        "price": 29,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035036262628,
+    "handle": "antler-handle",
+    "title": "Antler Handle",
+    "description": "Faux Antler Handle switchblade knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 29,
+    "maxPrice": 29,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife9.jpg?v=1778537311",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908065571044,
+        "title": "Default Title",
+        "price": 29,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035034525924,
+    "handle": "green-skulls",
+    "title": "Green Skulls",
+    "description": "Green Skulls switchblade knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 29,
+    "maxPrice": 29,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife8.jpg?v=1778537236",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908063015140,
+        "title": "Default Title",
+        "price": 29,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035033346276,
+    "handle": "eagle-usa",
+    "title": "Eagle USA",
+    "description": "Eagle U.S. Flag switchblade knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 29,
+    "maxPrice": 29,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife7.jpg?v=1778537167",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908061769956,
+        "title": "Default Title",
+        "price": 29,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035031445732,
+    "handle": "pen-knife-set",
+    "title": "Pen Knife Set",
+    "description": "Pen Knife Set",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 9.99,
+    "maxPrice": 9.99,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife6.jpg?v=1778537061",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908056494308,
+        "title": "Default Title",
+        "price": 9.99,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035029217508,
+    "handle": "skulls-and-gears",
+    "title": "Skulls and Gears",
+    "description": "Skulls and Gears flip out knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife4.jpg?v=1778536955",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife5.jpg?v=1778536970",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908051611876,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035023941860,
+    "handle": "falcon",
+    "title": "Falcon",
+    "description": "Falcon flip out knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife3.jpg?v=1778536872",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908042764516,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035022598372,
+    "handle": "single-shot-pistol",
+    "title": "Single Shot Pistol",
+    "description": "Single Shot Pistol flip out knife (1 each).",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife2.jpg?v=1778536808",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908039946468,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035020304612,
+    "handle": "skull-and-roses",
+    "title": "Skull and Roses",
+    "description": "Skull and Roses flip out knife",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "knives",
+    "productType": "Knives",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/knife1.jpg?v=1778536679",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908035588324,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035019780324,
+    "handle": "yes-no-coin",
+    "title": "Yes / No Coin",
+    "description": "Yes / No Coin",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "coins",
+    "productType": "Coins",
+    "minPrice": 20,
+    "maxPrice": 20,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/coin3.jpg?v=1778536543",
+        "width": 2202,
+        "height": 1924
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/coin5.jpg?v=1778536560",
+        "width": 2337,
+        "height": 2317
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908031918308,
+        "title": "Default Title",
+        "price": 20,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035018371300,
+    "handle": "motorcycle-u-s-flag",
+    "title": "Motorcycle / U.S. Flag",
+    "description": "Motorcycle / U.S. Flag",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_135121_2.jpg?v=1778536433",
+        "width": 2719,
+        "height": 1487
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908014616804,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035017322724,
+    "handle": "horn-broken",
+    "title": "Horn Broken",
+    "description": "Horn Broken, Watch For Finger",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_135010_2.jpg?v=1778536367",
+        "width": 2517,
+        "height": 1424
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48908002099428,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035016306916,
+    "handle": "caution",
+    "title": "Caution",
+    "description": "Caution, Never Drive Faster Than Your Angels Can Fly!",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_134947_2.jpg?v=1778536307",
+        "width": 2744,
+        "height": 1522
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907993481444,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035015749860,
+    "handle": "fire-rescue",
+    "title": "Fire Rescue",
+    "description": "Fire Rescue",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_134913_3.jpg?v=1778536233",
+        "width": 2917,
+        "height": 1520
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907991777508,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035015520484,
+    "handle": "i-spend-most-of-my-money",
+    "title": "I Spend Most Of My Money...",
+    "description": "I Spend Most Of My Money On Women And Beer. The Rest I Just Waste.",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_134239_2.jpg?v=1778536170",
+        "width": 2252,
+        "height": 1257
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907990794468,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035013193956,
+    "handle": "ford-f-150",
+    "title": "Ford F-150",
+    "description": "Ford F-150",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_134148_2.jpg?v=1778536085",
+        "width": 2558,
+        "height": 1331
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907988402404,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035011391716,
+    "handle": "grandparents-are-special-people",
+    "title": "Grandparents Are Special People",
+    "description": "Grandparents Are Special People",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_134029_3.jpg?v=1778536006",
+        "width": 2334,
+        "height": 1315
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907986501860,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035009229028,
+    "handle": "worlds-greatest-mom",
+    "title": "World's Greatest Mom",
+    "description": "World's Greatest Mom",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_180404.jpg?v=1778535902",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907983913188,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035008868580,
+    "handle": "penn-state",
+    "title": "Penn State",
+    "description": "Penn State",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173929.jpg?v=1778535808",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907983257828,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035008606436,
+    "handle": "dont-laugh-its-paid-for",
+    "title": "Don't Laugh, It's Paid For",
+    "description": "Don't Laugh, It's Paid For",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173857.jpg?v=1778535748",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907981881572,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035008377060,
+    "handle": "id-rather-be-golfing",
+    "title": "I'd Rather Be Golfing",
+    "description": "I'd Rather Be Golfing",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173828.jpg?v=1778535681",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907981455588,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035008278756,
+    "handle": "dont-mess-with-it",
+    "title": "Don't Mess With It",
+    "description": "Warning! If you value your life as much as I value this truck, don't mess with it.",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173809.jpg?v=1778535616",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48907981095140,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033585033444,
+    "handle": "u-s-marines",
+    "title": "U.S. Marines",
+    "description": "U.S. Marines License Plate",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173709.jpg?v=1778450704",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902042550500,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033584410852,
+    "handle": "blessed",
+    "title": "Blessed",
+    "description": "Blessed License Plate",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173636.jpg?v=1778450625",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902041796836,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033583296740,
+    "handle": "bingo",
+    "title": "Bingo",
+    "description": "Happiness Is Yelling Bingo",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173626.jpg?v=1778450523",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902040322276,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033582936292,
+    "handle": "west-virginia-university",
+    "title": "West Virginia University",
+    "description": "West Virginia University Fan License Plate",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173609.jpg?v=1778450412",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902039896292,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033582543076,
+    "handle": "smile-god-loves-you",
+    "title": "Smile God Loves You",
+    "description": "Smile God Loves You License Plate",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173528.jpg?v=1778450297",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902039175396,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033582215396,
+    "handle": "id-rather-be-hunting",
+    "title": "I'd Rather Be Hunting",
+    "description": "I'd Rather Be Hunting License Plate",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173522.jpg?v=1778450206",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902036062436,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033581756644,
+    "handle": "chevy-trucks",
+    "title": "Chevy Trucks",
+    "description": "Chevy Trucks License Plate",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173513.jpg?v=1778450113",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902032392420,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033581363428,
+    "handle": "i-love-my-wife",
+    "title": "I Love My Wife",
+    "description": "I Love It When My Wife Lets Me Go Fishing",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173451.jpg?v=1778449995",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902031540452,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033580773604,
+    "handle": "u-s-army",
+    "title": "U.S. Army",
+    "description": "U.S. Army License Plate",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173428.jpg?v=1778449833",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902027509988,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033580282084,
+    "handle": "you-are-the-reason-they-invented-road-rage",
+    "title": "You Are The Reason They Invented Road Rage",
+    "description": "You Are The Reason They Invented Road Rage",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "license-plates",
+    "productType": "License Plate Covers",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_173420.jpg?v=1778449636",
+        "width": 3264,
+        "height": 2448
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902024003812,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033577988324,
+    "handle": "it-takes-courage-to-be-free",
+    "title": "It Takes Courage to be Free",
+    "description": "It Takes Courage to be Free",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "road-signs",
+    "productType": "Road Signs",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213327.jpg?v=1778447679",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213618.jpg?v=1778449166",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213918.jpg?v=1778449168",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213347.jpg?v=1778449171",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213404.jpg?v=1778449171",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213423.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213443.jpg?v=1778449169",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213456.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213511.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213529.jpg?v=1778449171",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213542.jpg?v=1778449169",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213559.jpg?v=1778449171",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213639.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213657.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213710.jpg?v=1778449171",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213721.jpg?v=1778449169",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213740.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213751.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213808.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213826.jpg?v=1778449171",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213842.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213902.jpg?v=1778449169",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213945.jpg?v=1778449171",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_214015_e6167499-f765-4816-9979-c83a6fbebb30.jpg?v=1778449170",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_214027.jpg?v=1778449171",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Road sign design",
+        "position": 1,
+        "values": [
+          "It Takes Courage to be Free",
+          "Man Cave",
+          "Real Hero's Don't Need Capes",
+          "We Stand For The Flag",
+          "24 Hours In a Day, 24 Beers In a Case",
+          "Steelers Locker Room",
+          "Prayer Is The Best Way",
+          "Ride Free",
+          "U.S. Airforce Parking Only",
+          "Real Men Use Fists",
+          "U.S. Marine Corps",
+          "No Soliciting",
+          "U.S. Navy Sailor Parking Only",
+          "Ford Truck Parking Only",
+          "Excuse Me, Ladies",
+          "Mountaineer Fans Only",
+          "Bill Of Rights",
+          "Stupidity Is Not A Handicap!",
+          "If Laughter Is The Best Medicine",
+          "Warning!",
+          "Had To Call In Sick",
+          "Princess Parking Only",
+          "Chevy Truck Parking Only",
+          "Firefighter Parking Only"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48902010241252,
+        "title": "It Takes Courage to be Free",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "It Takes Courage to be Free"
+        ]
+      },
+      {
+        "id": 48902010274020,
+        "title": "Man Cave",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Man Cave"
+        ]
+      },
+      {
+        "id": 48902010306788,
+        "title": "Real Hero's Don't Need Capes",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Real Hero's Don't Need Capes"
+        ]
+      },
+      {
+        "id": 48902010339556,
+        "title": "We Stand For The Flag",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "We Stand For The Flag"
+        ]
+      },
+      {
+        "id": 48902010372324,
+        "title": "24 Hours In a Day, 24 Beers In a Case",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "24 Hours In a Day, 24 Beers In a Case"
+        ]
+      },
+      {
+        "id": 48902010405092,
+        "title": "Steelers Locker Room",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Steelers Locker Room"
+        ]
+      },
+      {
+        "id": 48902010437860,
+        "title": "Prayer Is The Best Way",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Prayer Is The Best Way"
+        ]
+      },
+      {
+        "id": 48902010470628,
+        "title": "Ride Free",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Ride Free"
+        ]
+      },
+      {
+        "id": 48902010503396,
+        "title": "U.S. Airforce Parking Only",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "U.S. Airforce Parking Only"
+        ]
+      },
+      {
+        "id": 48902010536164,
+        "title": "Real Men Use Fists",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Real Men Use Fists"
+        ]
+      },
+      {
+        "id": 48902010568932,
+        "title": "U.S. Marine Corps",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "U.S. Marine Corps"
+        ]
+      },
+      {
+        "id": 48902010601700,
+        "title": "No Soliciting",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "No Soliciting"
+        ]
+      },
+      {
+        "id": 48902010634468,
+        "title": "U.S. Navy Sailor Parking Only",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "U.S. Navy Sailor Parking Only"
+        ]
+      },
+      {
+        "id": 48902010667236,
+        "title": "Ford Truck Parking Only",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Ford Truck Parking Only"
+        ]
+      },
+      {
+        "id": 48902010700004,
+        "title": "Excuse Me, Ladies",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Excuse Me, Ladies"
+        ]
+      },
+      {
+        "id": 48902010732772,
+        "title": "Mountaineer Fans Only",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Mountaineer Fans Only"
+        ]
+      },
+      {
+        "id": 48902010765540,
+        "title": "Bill Of Rights",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Bill Of Rights"
+        ]
+      },
+      {
+        "id": 48902010798308,
+        "title": "Stupidity Is Not A Handicap!",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Stupidity Is Not A Handicap!"
+        ]
+      },
+      {
+        "id": 48902010831076,
+        "title": "If Laughter Is The Best Medicine",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "If Laughter Is The Best Medicine"
+        ]
+      },
+      {
+        "id": 48902010863844,
+        "title": "Warning!",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Warning!"
+        ]
+      },
+      {
+        "id": 48902010896612,
+        "title": "Had To Call In Sick",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Had To Call In Sick"
+        ]
+      },
+      {
+        "id": 48902010929380,
+        "title": "Princess Parking Only",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Princess Parking Only"
+        ]
+      },
+      {
+        "id": 48902010962148,
+        "title": "Chevy Truck Parking Only",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Chevy Truck Parking Only"
+        ]
+      },
+      {
+        "id": 48902010994916,
+        "title": "Firefighter Parking Only",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Firefighter Parking Only"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033522184420,
+    "handle": "guardian-bells",
+    "title": "Guardian Bells",
+    "description": "A wide selection of Guardian Bells\nMermaid\nP.O.W. M.I.A.\nAmerican Flag\nLike Father, Like Son\nBeer Babes\nRide to Live\nLive to Ride\nRoses (Red)\nRoses (Plain)\nMusic\n2nd Amendment\n2nd Amendment Defender\nSkeleton Hands",
+    "vendor": "Dream Apparel",
+    "category": "guardian-bells",
+    "productType": "Guardian Bells",
+    "minPrice": 10,
+    "maxPrice": 20,
+    "hasPriceRange": true,
+    "available": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell18.jpg?v=1778447001",
+        "width": 1531,
+        "height": 1922
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell13.jpg?v=1778447003",
+        "width": 2037,
+        "height": 2799
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell17.jpg?v=1778447002",
+        "width": 1343,
+        "height": 2158
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell22.jpg?v=1778447002",
+        "width": 1531,
+        "height": 2354
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell25.jpg?v=1778447003",
+        "width": 1999,
+        "height": 2855
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell15.jpg?v=1778447005",
+        "width": 1657,
+        "height": 2899
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell19.jpg?v=1778447005",
+        "width": 2448,
+        "height": 1897
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell20.jpg?v=1778447005",
+        "width": 2354,
+        "height": 1900
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell1.jpg?v=1778447010",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell12.jpg?v=1778447010",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell16.jpg?v=1778447009",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell23.jpg?v=1778447010",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell26.jpg?v=1778447009",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell8.jpg?v=1778447008",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell9.jpg?v=1778447009",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell10.jpg?v=1778447012",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell11.jpg?v=1778447012",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell14.jpg?v=1778447011",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell2.jpg?v=1778447012",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell21.jpg?v=1778447011",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell24.jpg?v=1778447011",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell3.jpg?v=1778447011",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell4.jpg?v=1778447011",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell5.jpg?v=1778447011",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell6.jpg?v=1778447010",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/bell7.jpg?v=1778447011",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Accessory size",
+        "position": 1,
+        "values": [
+          "L",
+          "S"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48901868159204,
+        "title": "L",
+        "price": 20,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "L"
+        ]
+      },
+      {
+        "id": 48901868191972,
+        "title": "S",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "S"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033472573668,
+    "handle": "choppers-large-lens-sun-glasses",
+    "title": "Choppers Large Lens Sun Glasses",
+    "description": "Choppers Large Lens Sun Glasses",
+    "vendor": "Choppers",
+    "category": "sunglasses",
+    "productType": "Sun Glasses",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_192925_2.jpg?v=1778446327",
+        "width": 2448,
+        "height": 1355
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48901738528996,
+        "title": "Black",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Black"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033471099108,
+    "handle": "choppers-sport-riding-glasses",
+    "title": "Choppers Sport Riding Glasses",
+    "description": "Choppers Sport Riding Glasses",
+    "vendor": "Choppers",
+    "category": "sunglasses",
+    "productType": "Sun Glasses",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_191237_2.jpg?v=1778445933",
+        "width": 2291,
+        "height": 1880
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_191330_2.jpg?v=1778445944",
+        "width": 2300,
+        "height": 1181
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_191417_2.jpg?v=1778445952",
+        "width": 2379,
+        "height": 1458
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_193144_2.jpg?v=1778445968",
+        "width": 2448,
+        "height": 1795
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Red"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48901735219428,
+        "title": "Black",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Black"
+        ]
+      },
+      {
+        "id": 48901735252196,
+        "title": "Red",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Red"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033469559012,
+    "handle": "choppers-sun-glasses",
+    "title": "Choppers Sun Glasses",
+    "description": "Choppers Sun Glasses - Yellow Tint",
+    "vendor": "Choppers",
+    "category": "sunglasses",
+    "productType": "Sun Glasses",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_191011.jpg?v=1778445195",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_191146.jpg?v=1778445393",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_191209.jpg?v=1778445572",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Lens color",
+        "position": 1,
+        "values": [
+          "Yellow",
+          "Black",
+          "Rainbow",
+          "Clear"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Black",
+          "Red"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48901727256804,
+        "title": "Yellow / Black",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Yellow",
+          "Black"
+        ]
+      },
+      {
+        "id": 48901727289572,
+        "title": "Yellow / Red",
+        "price": 0,
+        "compareAtPrice": null,
+        "available": false,
+        "options": [
+          "Yellow",
+          "Red"
+        ]
+      },
+      {
+        "id": 48901727322340,
+        "title": "Black / Black",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Black",
+          "Black"
+        ]
+      },
+      {
+        "id": 48901727355108,
+        "title": "Black / Red",
+        "price": 0,
+        "compareAtPrice": null,
+        "available": false,
+        "options": [
+          "Black",
+          "Red"
+        ]
+      },
+      {
+        "id": 48901727387876,
+        "title": "Rainbow / Black",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Rainbow",
+          "Black"
+        ]
+      },
+      {
+        "id": 48901727420644,
+        "title": "Rainbow / Red",
+        "price": 0,
+        "compareAtPrice": null,
+        "available": false,
+        "options": [
+          "Rainbow",
+          "Red"
+        ]
+      },
+      {
+        "id": 48901727453412,
+        "title": "Clear / Black",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Clear",
+          "Black"
+        ]
+      },
+      {
+        "id": 48901727486180,
+        "title": "Clear / Red",
+        "price": 0,
+        "compareAtPrice": null,
+        "available": false,
+        "options": [
+          "Clear",
+          "Red"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9030131581156,
+    "handle": "property-of-steelers",
+    "title": "Property of Steelers",
+    "description": "Property of Pittsburgh Steelers Road Sign",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "road-signs",
+    "productType": "Road Signs",
+    "minPrice": 15,
+    "maxPrice": 15,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_213211.jpg?v=1778282018",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48892714090724,
+        "title": "Default Title",
+        "price": 15,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028590829796,
+    "handle": "diamond-plate-leather-vest-with-straps",
+    "title": "Diamond Plate Leather Vest with Straps",
+    "description": "Diamond Plate Leather Vest with Straps",
+    "vendor": "Diamond Plate",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_123200.jpg?v=1778171792",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887285678308,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028590403812,
+    "handle": "diamond-plate-buffalo-vest",
+    "title": "Diamond Plate Buffalo Vest",
+    "description": "Diamond Plate Buffalo Leather Riding Vest with Lace Sides",
+    "vendor": "Diamond Plate",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_123457.jpg?v=1778171724",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887283679460,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028589584612,
+    "handle": "live-ride_rock-ladies-corset",
+    "title": "Live-Ride_Rock Ladies Corset",
+    "description": "Live-Ride_Rock Ladies Corset",
+    "vendor": "Live-Ride-Rock",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_124105.jpg?v=1778171583",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887274471652,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028588339428,
+    "handle": "diamond-plate-leather-riding-vest",
+    "title": "Diamond Plate Leather Riding Vest",
+    "description": "Diamond Plate Leather Riding Vest with Rivet Design",
+    "vendor": "Diamond Plate",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_122758.jpg?v=1778171445",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887258743012,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028584833252,
+    "handle": "diamond-plate-ladies-riding-vest",
+    "title": "Diamond Plate Ladies Riding Vest",
+    "description": "Diamond Plate Ladies Riding Vest",
+    "vendor": "Diamond Plate",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_121934.jpg?v=1778171170",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887236395236,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028583784676,
+    "handle": "rocky-mountain-rides-buffalo-leather-vest",
+    "title": "Rocky Mountain Rides Buffalo Leather Vest",
+    "description": "Rocky Mountain Rides Buffalo Leather Vest",
+    "vendor": "Rocky Mountain",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_122244.jpg?v=1778171094",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887229841636,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028583063780,
+    "handle": "navarr-leather-biker-vest",
+    "title": "Navarr Leather Biker Vest",
+    "description": "Genuine Leather Navarr Biker Vest",
+    "vendor": "Navarr",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_122545.jpg?v=1778171034",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887224172772,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028580966628,
+    "handle": "rocky-mountain-ladies-crop-vest",
+    "title": "Rocky Mountain Ladies Crop Vest",
+    "description": "Rocky Mountain Ladies Crop Vest",
+    "vendor": "Rocky Mountain",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_122426_b19696e5-d32a-42ee-8885-f8c5b77870d8.jpg?v=1778170866",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887209722084,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028578902244,
+    "handle": "denim-jacket-with-studs",
+    "title": "Denim Jacket with Studs",
+    "description": "Denim Riding Jacket with Studs",
+    "vendor": "Diamond Plate",
+    "category": "textile-jackets",
+    "productType": "Textile Jacket",
+    "minPrice": 40,
+    "maxPrice": 40,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_125207.jpg?v=1778170707",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "2XL",
+          "4XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887200350436,
+        "title": "2XL",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "2XL"
+        ]
+      },
+      {
+        "id": 48887200383204,
+        "title": "4XL",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "4XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028578279652,
+    "handle": "diamond-plate-western",
+    "title": "Diamond Plate Western",
+    "description": "Diamond Plate Western Themed Riding Jacket with Red and White Stripes",
+    "vendor": "Diamond Plate",
+    "category": "textile-jackets",
+    "productType": "Textile Jacket",
+    "minPrice": 50,
+    "maxPrice": 50,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_125432.jpg?v=1778170622",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "4XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887198974180,
+        "title": "4XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "4XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028577362148,
+    "handle": "diamond-plate-usa-moto-jacket",
+    "title": "Diamond Plate USA Moto Jacket",
+    "description": "Diamond Plate USA Moto Jacket with Zip Trim. Water Resistant.",
+    "vendor": "Diamond Plate",
+    "category": "textile-jackets",
+    "productType": "Textile Jacket",
+    "minPrice": 50,
+    "maxPrice": 50,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_125617.jpg?v=1778170454",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_125636.jpg?v=1778170468",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "L",
+          "2XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887193993444,
+        "title": "L",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "L"
+        ]
+      },
+      {
+        "id": 48887194026212,
+        "title": "2XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "2XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028575723748,
+    "handle": "diamond-plate-ladies-riding-jacket",
+    "title": "Diamond Plate Ladies Riding Jacket",
+    "description": "Diamond Plate Ladies Dream Apparel Riding Jacket with Purple Stripe",
+    "vendor": "Diamond Plate",
+    "category": "textile-jackets",
+    "productType": "Textile Jacket",
+    "minPrice": 50,
+    "maxPrice": 50,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_125834.jpg?v=1778170291",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "M"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887184392420,
+        "title": "M",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028575101156,
+    "handle": "diamond-plate-sport-jacket",
+    "title": "Diamond Plate Sport Jacket",
+    "description": "Diamond Plate Sport Riding Jacket with White Stripe",
+    "vendor": "Diamond Plate",
+    "category": "textile-jackets",
+    "productType": "Textile Jacket",
+    "minPrice": 50,
+    "maxPrice": 50,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_130022.jpg?v=1778170188",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "4XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887181181156,
+        "title": "4XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "4XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028574478564,
+    "handle": "diamond-plate-womens-sport-jacket-1",
+    "title": "Diamond Plate Women's Sport Jacket",
+    "description": "Diamond Plate Women's Sport Jacket with Red Stripe",
+    "vendor": "Diamond Plate",
+    "category": "textile-jackets",
+    "productType": "Textile Jacket",
+    "minPrice": 50,
+    "maxPrice": 50,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_125403.jpg?v=1778170033",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "M",
+          "2XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887175381220,
+        "title": "M",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      },
+      {
+        "id": 48887175413988,
+        "title": "2XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "2XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028571594980,
+    "handle": "diamond-plate-womens-sport-jacket",
+    "title": "Diamond Plate Women's Sport Jacket",
+    "description": "Diamond Plate Women's Sport Jacket with Purple Stripe.",
+    "vendor": "Diamond Plate",
+    "category": "textile-jackets",
+    "productType": "Textile Jacket",
+    "minPrice": 50,
+    "maxPrice": 50,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_125335.jpg?v=1778169759",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "M",
+          "2XL",
+          "4XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887167254756,
+        "title": "M",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      },
+      {
+        "id": 48887167287524,
+        "title": "2XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "2XL"
+        ]
+      },
+      {
+        "id": 48887167320292,
+        "title": "4XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "4XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028567892196,
+    "handle": "diamond-plate-leather-jacket",
+    "title": "Diamond Plate Leather Jacket",
+    "description": "Diamond Plate - Fully Lined, Reinforced, Collared. Genuine Leather Riding Jacket",
+    "vendor": "Diamond Plate",
+    "category": "leather-jackets",
+    "productType": "Leather Jacket",
+    "minPrice": 50,
+    "maxPrice": 50,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_124647_185169dc-fd3e-4243-aa3f-a8c6434b4b9b.jpg?v=1778169236",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "3XL",
+          "4XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48887159423204,
+        "title": "S",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "S"
+        ]
+      },
+      {
+        "id": 48887159455972,
+        "title": "M",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      },
+      {
+        "id": 48887159488740,
+        "title": "L",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "L"
+        ]
+      },
+      {
+        "id": 48887159521508,
+        "title": "XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "XL"
+        ]
+      },
+      {
+        "id": 48887159554276,
+        "title": "3XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "3XL"
+        ]
+      },
+      {
+        "id": 48887159587044,
+        "title": "4XL",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "4XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028497047780,
+    "handle": "diamond-plate-short-collar-leather-jacket",
+    "title": "Diamond Plate Short Collar Leather Jacket",
+    "description": "Diamond Plate Genuine Leather Riding Jacket",
+    "vendor": "Diamond Plate",
+    "category": "leather-jackets",
+    "productType": "Leather Jacket",
+    "minPrice": 50,
+    "maxPrice": 50,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_124857.jpg?v=1778161217",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "S"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886834659556,
+        "title": "S",
+        "price": 50,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "S"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028469620964,
+    "handle": "diamond-plate-leather-jacket-live-to-ride",
+    "title": "Diamond Plate Leather Jacket - Live to Ride",
+    "description": "Diamond Plate - Genuine Leather Riding Jacket",
+    "vendor": "Diamond Plate",
+    "category": "leather-jackets",
+    "productType": "Leather Jacket",
+    "minPrice": 80,
+    "maxPrice": 80,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_124415.jpg?v=1778159132",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "M"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886750806244,
+        "title": "M",
+        "price": 80,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028375609572,
+    "handle": "rodia-boneyard-black",
+    "title": "Rodia - Boneyard Black",
+    "description": "Rodia Skull Cap - Boneyard Black",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_215234.jpg?v=1778155136",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Accessory size",
+        "position": 1,
+        "values": [
+          "S",
+          "M"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886303752420,
+        "title": "S",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "S"
+        ]
+      },
+      {
+        "id": 48886303785188,
+        "title": "M",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028372660452,
+    "handle": "rodia-skull-pile",
+    "title": "Rodia - Skull Pile",
+    "description": "Rodia Skull Cap - Skull Pile theme",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_215112.jpg?v=1778154913",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_215121.jpg?v=1778154990",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Accessory size",
+        "position": 1,
+        "values": [
+          "S"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886279799012,
+        "title": "S",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "S"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028371022052,
+    "handle": "rodia-p-o-w",
+    "title": "Rodia - P.O.W.",
+    "description": "Rodia Skull Cap with P.O.W. theme",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_215524.jpg?v=1778154788",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Accessory size",
+        "position": 1,
+        "values": [
+          "XL",
+          "M"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886270722276,
+        "title": "XL",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "XL"
+        ]
+      },
+      {
+        "id": 48886270755044,
+        "title": "M",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028370301156,
+    "handle": "rodia-silver-butterfly",
+    "title": "Rodia - Silver Butterfly",
+    "description": "Rodia Skull Cap with Silver Butterfly theme",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_215419.jpg?v=1778154552",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886267936996,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028369744100,
+    "handle": "rodia-flat-black",
+    "title": "Rodia - Flat Black",
+    "description": "Rodia Skull Cap - Flat Black",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_220113.jpg?v=1778154347",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Accessory size",
+        "position": 1,
+        "values": [
+          "M",
+          "XS"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886264824036,
+        "title": "M",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      },
+      {
+        "id": 48886264856804,
+        "title": "XS",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "XS"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028367843556,
+    "handle": "rodia-chrome",
+    "title": "Rodia - Chrome",
+    "description": "Rodia Skull Cap - Chrome",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_223737.jpg?v=1778154120",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886255026404,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028367188196,
+    "handle": "rodia-rebel-flag",
+    "title": "Rodia - Rebel Flag",
+    "description": "Rodia Skull Cap with Rebel Flag theme",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_223621.jpg?v=1778153986",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_223629.jpg?v=1778154032",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886250799332,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028359356644,
+    "handle": "rodia-purple-skulls",
+    "title": "Rodia - Purple Skulls",
+    "description": "Rodia Skull Cap with Purple Skulls theme",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_215633.jpg?v=1778151868",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886187458788,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028358406372,
+    "handle": "rodia-gloss-black",
+    "title": "Rodia - Gloss Black",
+    "description": "Rodia Skull Cap - Gloss Black",
+    "vendor": "Rodia",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_220426.jpg?v=1778151147",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "M",
+          "XL",
+          "XXL",
+          "S"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886177988836,
+        "title": "M",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      },
+      {
+        "id": 48886178021604,
+        "title": "XL",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "XL"
+        ]
+      },
+      {
+        "id": 48886178054372,
+        "title": "XXL",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "XXL"
+        ]
+      },
+      {
+        "id": 48886178087140,
+        "title": "S",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "S"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028356341988,
+    "handle": "daytona-skull-with-roses",
+    "title": "Daytona - Skull with Roses",
+    "description": "Daytona Skull Cap with Skull with Roses theme",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_214210.jpg?v=1778150953",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886140600548,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028353097956,
+    "handle": "daytona-eagle-skull-wings",
+    "title": "Daytona - Eagle - Skull Wings",
+    "description": "Daytona Eagle Skull Cap with Skull Wings theme",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 40,
+    "maxPrice": 40,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_222002.jpg?v=1778150642",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886114582756,
+        "title": "Default Title",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028352671972,
+    "handle": "daytona-skull-flames-red",
+    "title": "Daytona - Skull Flames - Red",
+    "description": "Daytona Skull Cap - Skull Flames - Red",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_215752.jpg?v=1778150490",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886109929700,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028352409828,
+    "handle": "daytona-2nd-amendment",
+    "title": "Daytona - 2nd Amendment",
+    "description": "Daytona Skull Cap with 2nd Amendment theme",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_221649.jpg?v=1778150333",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_220602.jpg?v=1778150348",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Accessory size",
+        "position": 1,
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886107832548,
+        "title": "S",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "S"
+        ]
+      },
+      {
+        "id": 48886107865316,
+        "title": "M",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      },
+      {
+        "id": 48886107898084,
+        "title": "L",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "L"
+        ]
+      },
+      {
+        "id": 48886107930852,
+        "title": "XL",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028351131876,
+    "handle": "daytona-matt-black",
+    "title": "Daytona Matt Black",
+    "description": "Daytona Skull Cap - Matt Black",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_220756.jpg?v=1778150166",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886101639396,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028350148836,
+    "handle": "daytona-crossbones-red-skulls",
+    "title": "Daytona - Crossbones - Red Skulls",
+    "description": "Daytona Crossbones Skull Cap with Red Skulls theme",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_222834.jpg?v=1778150022",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886097445092,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028349821156,
+    "handle": "daytona-skull-flames-blue",
+    "title": "Daytona - Skull Flames - Blue",
+    "description": "Daytona Skull Cap with Blue Skull Flames theme",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_223059.jpg?v=1778149824",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886094168292,
+        "title": "Default Title",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028348903652,
+    "handle": "daytona-easy-rider-gloss-black",
+    "title": "Daytona - Easy Rider - Gloss Black",
+    "description": "Daytona - Easy Rider Skull Cap - High Gloss Black",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 40,
+    "maxPrice": 40,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_214403.jpg?v=1778149421",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Vehicle type",
+        "position": 1,
+        "values": [
+          "Motorcycle"
+        ]
+      },
+      {
+        "name": "Accessory size",
+        "position": 2,
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886084763876,
+        "title": "Motorcycle / S",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Motorcycle",
+          "S"
+        ]
+      },
+      {
+        "id": 48886084796644,
+        "title": "Motorcycle / M",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Motorcycle",
+          "M"
+        ]
+      },
+      {
+        "id": 48886084829412,
+        "title": "Motorcycle / L",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Motorcycle",
+          "L"
+        ]
+      },
+      {
+        "id": 48886084862180,
+        "title": "Motorcycle / XL",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Motorcycle",
+          "XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9028347691236,
+    "handle": "daytona-eagle-make-em-pay",
+    "title": "Daytona Eagle - Make 'Em Pay",
+    "description": "Daytona - Eagle Skull Cap with Make 'Em Pay Theme",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 40,
+    "maxPrice": 40,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_221134.jpg?v=1778148994",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Vehicle type",
+        "position": 1,
+        "values": [
+          "Motorcycle"
+        ]
+      },
+      {
+        "name": "Accessory size",
+        "position": 2,
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48886069887204,
+        "title": "Motorcycle / S",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Motorcycle",
+          "S"
+        ]
+      },
+      {
+        "id": 48886069919972,
+        "title": "Motorcycle / M",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Motorcycle",
+          "M"
+        ]
+      },
+      {
+        "id": 48886069952740,
+        "title": "Motorcycle / L",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Motorcycle",
+          "L"
+        ]
+      },
+      {
+        "id": 48886069985508,
+        "title": "Motorcycle / XL",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Motorcycle",
+          "XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9027610640612,
+    "handle": "daytona-barbed-roses",
+    "title": "Daytona Barbed Roses",
+    "description": "Daytona D.O.T. Skull Cap with Barbed Roses Theme.",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_221003.jpg?v=1778089594",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Accessory size",
+        "position": 1,
+        "values": [
+          "S",
+          "M"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48880881533156,
+        "title": "S",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "S"
+        ]
+      },
+      {
+        "id": 48880881565924,
+        "title": "M",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "M"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9027598319844,
+    "handle": "daytona-skull-and-chains",
+    "title": "Daytona Skull and Chains",
+    "description": "Daytona Skull and Chains Theme D.O.T. Skull Cap",
+    "vendor": "Daytona",
+    "category": "helmets",
+    "productType": "Helmets",
+    "minPrice": 90,
+    "maxPrice": 90,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_222148.jpg?v=1778088537",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260426_222139.jpg?v=1778088558",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Large"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48880771891428,
+        "title": "Large",
+        "price": 90,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Large"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9027572105444,
+    "handle": "choppers-goggles-1",
+    "title": "Choppers Goggles",
+    "description": "Clear Goggles",
+    "vendor": "Choppers",
+    "category": "goggles",
+    "productType": "Goggles",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_191641_3.jpg?v=1778085477",
+        "width": 2364,
+        "height": 1522
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48880570990820,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9027571122404,
+    "handle": "choppers-goggles",
+    "title": "Choppers Tinted Goggles",
+    "description": "Tinted Choppers Goggles",
+    "vendor": "Choppers",
+    "category": "goggles",
+    "productType": "Goggles",
+    "minPrice": 10,
+    "maxPrice": 10,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_191130_2.jpg?v=1778085257",
+        "width": 2349,
+        "height": 1651
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48880567845092,
+        "title": "Default Title",
+        "price": 10,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9027568992484,
+    "handle": "tool-bag",
+    "title": "Tool Bags",
+    "description": "Genuine Leather Tool Bag",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "tool-bags",
+    "productType": "Tool Bag",
+    "minPrice": 40,
+    "maxPrice": 40,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_200819_2.jpg?v=1778084841",
+        "width": 2436,
+        "height": 1952
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/1779245587-20260419_200802_2.jpg?v=1778599015",
+        "width": 2436,
+        "height": 1633
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_202452_2_f1497875-2dd4-4b3d-ab21-eab21c714d11.jpg?v=1778599024",
+        "width": 2448,
+        "height": 1730
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_195852_3.jpg?v=1778599038",
+        "width": 3264,
+        "height": 2448
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_202152.jpg?v=1778599058",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/1779245476-20260419_200836.jpg?v=1778599061",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48880554410212,
+        "title": "Default Title",
+        "price": 40,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9027491725540,
+    "handle": "small-saddle-bags",
+    "title": "Small Saddle Bags",
+    "description": "Genuine leather saddle bags",
+    "vendor": "Biker's Leather",
+    "category": "saddle-bags",
+    "productType": "saddle bags",
+    "minPrice": 70,
+    "maxPrice": 70,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_200331_cc7cf54f-ddd2-4d63-9e1e-a4a3df556804.jpg?v=1776257207",
+        "width": 3264,
+        "height": 2448
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_195426_3_08ed6ad4-f674-41a4-be59-a80c42d844d4.jpg?v=1778598805",
+        "width": 2429,
+        "height": 1954
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48879969927396,
+        "title": "Default Title",
+        "price": 70,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9022721884388,
+    "handle": "mens-leather-vest-2",
+    "title": "Diamond Plate - Live to Ride Vest",
+    "description": "Men's Diamond Plate Buffalo Leather vest with Live to Ride patches.",
+    "vendor": "Diamond Plate",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_122707_66096bf5-3039-48c9-9494-4155d20706f4.jpg?v=1777634862",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48857108414692,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9022717624548,
+    "handle": "mens-leather-vest-1",
+    "title": "Diamond Plate Leather Vest - Live to Ride",
+    "description": "Men's Diamond Plate Buffalo Leather vest with Live to Ride patches.",
+    "vendor": "Diamond Plate",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_122707.jpg?v=1777634686",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48857104023780,
+        "title": "Default Title",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9022705369316,
+    "handle": "mens-leather-vest",
+    "title": "Diamond Plate Leather Vest - Live to Ride",
+    "description": "Men's Diamond Plate Buffalo Leather with Live to Ride Patches.",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "leather-vests",
+    "productType": "",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": true,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_122631.jpg?v=1777634232",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "3X"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48857088393444,
+        "title": "3X",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "3X"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9019884437732,
+    "handle": "leather-vest",
+    "title": "Ladies Leather Vest",
+    "description": "Diamond Plate Buffalo Leather Jacket with heart and USA Patches.",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "leather-vests",
+    "productType": "Leather vest",
+    "minPrice": 35,
+    "maxPrice": 35,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_121700.jpg?v=1777462166",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "2XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48857083674852,
+        "title": "2XL",
+        "price": 35,
+        "compareAtPrice": null,
+        "available": true,
+        "options": [
+          "2XL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8999814791396,
+    "handle": "saddle-bags",
+    "title": "Large Saddle bags",
+    "description": "Genuine leather saddle bags",
+    "vendor": "Smokin Aces motorcycle apparell",
+    "category": "saddle-bags",
+    "productType": "saddle bags",
+    "minPrice": 100,
+    "maxPrice": 100,
+    "hasPriceRange": false,
+    "available": true,
+    "featured": false,
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/Screenshot_20260413_203948_Chrome_503d200f-c162-4b77-90e6-9a89b34f05bb.jpg?v=1776257206",
+        "width": 1182,
+        "height": 852
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_200338.jpg?v=1778598677",
+        "width": 3264,
+        "height": 2448
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_201028_65c1c01f-bf97-464a-9bdc-9be584d9acb1.jpg?v=1778598677",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_201038.jpg?v=1778598677",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_133837_47076cd4-0d52-499a-8918-d01a939144f6.jpg?v=1778598679",
+        "width": 2448,
+        "height": 3264
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260414_133917.jpg?v=1778598679",
+        "width": 2448,
+        "height": 3264
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48737107149028,
+        "title": "Default Title",
+        "price": 100,
+        "compareAtPrice": 120,
+        "available": true,
+        "options": [
+          "Default Title"
+        ]
+      }
+    ]
+  }
+]
