@@ -33,11 +33,11 @@ const socialLinks = [
 
 export function Footer() {
   return (
-    <footer className="bg-[var(--color-surface)] pt-16 pb-8 mt-16">
+    <footer className="pt-12 pb-6 mt-12 md:pt-16 md:pb-8 md:mt-16">
       <Container>
-        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid grid-cols-1 gap-6 sm:gap-8 md:grid-cols-2 lg:grid-cols-4">
           <div>
-            <h3 className="font-display mb-4 text-xl uppercase tracking-tight text-[var(--color-ink)]">
+            <h3 className="font-display mb-3 text-lg uppercase tracking-tight text-[var(--color-ink)] sm:mb-4 sm:text-xl">
               Shop
             </h3>
             <ul className="space-y-2">
@@ -55,7 +55,7 @@ export function Footer() {
           </div>
 
           <div>
-            <h3 className="font-display mb-4 text-xl uppercase tracking-tight text-[var(--color-ink)]">
+            <h3 className="font-display mb-3 text-lg uppercase tracking-tight text-[var(--color-ink)] sm:mb-4 sm:text-xl">
               Support
             </h3>
             <ul className="space-y-2">
@@ -73,7 +73,7 @@ export function Footer() {
           </div>
 
           <div>
-            <h3 className="font-display mb-4 text-xl uppercase tracking-tight text-[var(--color-ink)]">
+            <h3 className="font-display mb-3 text-lg uppercase tracking-tight text-[var(--color-ink)] sm:mb-4 sm:text-xl">
               About
             </h3>
             <ul className="space-y-2">
@@ -91,7 +91,7 @@ export function Footer() {
           </div>
 
           <div>
-            <h3 className="font-display mb-4 text-xl uppercase tracking-tight text-[var(--color-ink)]">
+            <h3 className="font-display mb-3 text-lg uppercase tracking-tight text-[var(--color-ink)] sm:mb-4 sm:text-xl">
               Connect
             </h3>
             <div className="flex gap-4">

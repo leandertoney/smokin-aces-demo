@@ -13,7 +13,7 @@ export function CartTrigger() {
       className="relative"
       aria-label="Open cart"
     >
-      <ShoppingCart className="h-5 w-5 text-[var(--color-ink-muted)] transition-colors hover:text-[var(--color-ink)]" />
+      <ShoppingCart className="h-5 w-5 text-white/80 transition-colors hover:text-white" />
       {count > 0 && (
         <span className="absolute -right-2 -top-2 flex h-5 w-5 items-center justify-center rounded-full bg-[var(--color-accent)] text-xs font-semibold text-white">
           {count}

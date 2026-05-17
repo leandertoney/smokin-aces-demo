@@ -11,7 +11,7 @@ export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-[var(--color-bg)]">
+    <header className="absolute top-0 left-0 right-0 z-50">
       <Container>
         <div className="flex h-16 items-center justify-between lg:h-20">
           <button
@@ -20,14 +20,15 @@ export function Header() {
             aria-label="Toggle menu"
           >
             {mobileMenuOpen ? (
-              <X className="h-6 w-6 text-[var(--color-ink)]" />
+              <X className="h-6 w-6 text-white" />
             ) : (
-              <Menu className="h-6 w-6 text-[var(--color-ink)]" />
+              <Menu className="h-6 w-6 text-white" />
             )}
           </button>
 
-          <Link href="/" className="font-display text-2xl uppercase tracking-tight text-[var(--color-ink)] lg:text-3xl">
-            SMOKIN&apos; ACES
+          <Link href="/" className="font-display text-2xl uppercase tracking-tight text-white lg:text-3xl logo-animated group">
+            <span className="inline-block">SMOKIN&apos;</span>{" "}
+            <span className="inline-block text-[var(--color-accent)] transition-colors group-hover:text-white">ACES</span>
           </Link>
 
           <nav className="hidden lg:block">
@@ -35,7 +36,7 @@ export function Header() {
               <li>
                 <Link
                   href="/collections/helmets"
-                  className="text-sm uppercase tracking-wide text-[var(--color-ink-muted)] transition-colors hover:text-[var(--color-ink)]"
+                  className="text-sm uppercase tracking-wide text-white/80 transition-colors hover:text-white"
                 >
                   Helmets
                 </Link>
@@ -43,7 +44,7 @@ export function Header() {
               <li>
                 <Link
                   href="/collections/leather-jackets"
-                  className="text-sm uppercase tracking-wide text-[var(--color-ink-muted)] transition-colors hover:text-[var(--color-ink)]"
+                  className="text-sm uppercase tracking-wide text-white/80 transition-colors hover:text-white"
                 >
                   Jackets
                 </Link>
@@ -51,7 +52,7 @@ export function Header() {
               <li>
                 <Link
                   href="/collections/leather-vests"
-                  className="text-sm uppercase tracking-wide text-[var(--color-ink-muted)] transition-colors hover:text-[var(--color-ink)]"
+                  className="text-sm uppercase tracking-wide text-white/80 transition-colors hover:text-white"
                 >
                   Vests
                 </Link>
@@ -59,7 +60,7 @@ export function Header() {
               <li>
                 <Link
                   href="/shop"
-                  className="text-sm uppercase tracking-wide text-[var(--color-ink-muted)] transition-colors hover:text-[var(--color-ink)]"
+                  className="text-sm uppercase tracking-wide text-white/80 transition-colors hover:text-white"
                 >
                   All Products
                 </Link>
@@ -69,7 +70,7 @@ export function Header() {
 
           <div className="flex items-center gap-4">
             <button aria-label="Search" className="hidden sm:block">
-              <Search className="h-5 w-5 text-[var(--color-ink-muted)] transition-colors hover:text-[var(--color-ink)]" />
+              <Search className="h-5 w-5 text-white/80 transition-colors hover:text-white" />
             </button>
             <CartTrigger />
           </div>
@@ -77,7 +78,7 @@ export function Header() {
       </Container>
 
       {mobileMenuOpen && (
-        <div className="bg-[var(--color-surface)] lg:hidden">
+        <div className="bg-black/90 backdrop-blur-sm lg:hidden">
           <Container>
             <nav className="py-4">
               <ul className="space-y-4">
@@ -86,7 +87,7 @@ export function Header() {
                     <Link
                       href={`/collections/${cat.slug}`}
                       onClick={() => setMobileMenuOpen(false)}
-                      className="block text-sm uppercase tracking-wide text-[var(--color-ink-muted)] transition-colors hover:text-[var(--color-ink)]"
+                      className="block text-sm uppercase tracking-wide text-white/80 transition-colors hover:text-white"
                     >
                       {cat.label}
                     </Link>

@@ -3,7 +3,7 @@ import { Container } from "../shared/Container";
 
 export function Hero() {
   return (
-    <div className="relative h-[70vh] min-h-[500px] overflow-hidden bg-[var(--color-surface)]">
+    <div className="relative h-screen w-full overflow-hidden">
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{
@@ -21,14 +21,14 @@ export function Hero() {
         </svg>
       </div>
 
-      <Container className="relative flex h-full flex-col justify-center">
+      <div className="relative flex h-full flex-col justify-center px-6 md:px-12 lg:px-20">
         <h1 className="font-display mb-4 text-5xl uppercase leading-none tracking-tight text-white md:text-6xl lg:text-7xl">
           BUILT BY RIDERS.
           <br />
           FOR RIDERS.
         </h1>
         <p className="mb-8 max-w-xl text-lg text-white/90 md:text-xl">
-          Premium leathers, trusted helmets, and gear we put on our own bikes. No markup games. Free shipping over $75.
+          Premium leathers. Trusted helmets. Gear that protects you on every ride.
         </p>
         <div className="flex flex-wrap gap-4">
           <Link
@@ -44,7 +44,7 @@ export function Hero() {
             Shop Vests
           </Link>
         </div>
-      </Container>
+      </div>
     </div>
   );
 }

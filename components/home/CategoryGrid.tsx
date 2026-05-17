@@ -30,9 +30,9 @@ export async function CategoryGrid() {
   );
 
   return (
-    <section className="py-16 md:py-24">
+    <section className="py-12 md:py-16 lg:py-24">
       <Container>
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-6">
+        <div className="grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 md:gap-6">
           {categoriesWithData.map((cat) => (
             <Link
               key={cat.slug}
@@ -49,11 +49,11 @@ export async function CategoryGrid() {
                 />
               )}
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
-              <div className="absolute inset-x-0 bottom-0 p-6">
-                <h3 className="font-display mb-1 text-2xl uppercase tracking-tight text-white">
+              <div className="absolute inset-x-0 bottom-0 p-3 sm:p-4 md:p-6">
+                <h3 className="font-display mb-1 text-lg sm:text-xl md:text-2xl uppercase tracking-tight text-white">
                   {cat.label}
                 </h3>
-                <p className="text-sm text-white/80">{cat.count} items</p>
+                <p className="text-xs sm:text-sm text-white/80">{cat.count} items</p>
               </div>
             </Link>
           ))}
