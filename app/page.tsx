@@ -19,12 +19,6 @@ export default async function Home() {
         <div className="content-panel">
           <BrandMarquee />
         </div>
-        <div className="content-panel">
-          <CategoryGrid />
-        </div>
-        <div className="content-panel">
-          <FeaturedRail />
-        </div>
 
         <section className="content-panel py-12 md:py-16 lg:py-24">
           <Container>
@@ -33,8 +27,19 @@ export default async function Home() {
           </Container>
         </section>
 
+        <div className="content-panel">
+          <FeaturedRail />
+        </div>
+
         <section className="content-panel">
           <Testimonials />
+        </section>
+
+        <section className="content-panel py-12 md:py-16 lg:py-24">
+          <Container>
+            <SectionHeader title="SHOP BY CATEGORY" />
+            <CategoryGrid />
+          </Container>
         </section>
 
         <section className="content-panel py-12 md:py-16 lg:py-24">

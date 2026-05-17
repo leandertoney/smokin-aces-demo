@@ -117,11 +117,24 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 pt-8">
+        <div className="mt-12 pt-8 border-t border-[var(--color-border)]">
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
-            <p className="text-sm text-[var(--color-ink-muted)]">
-              © {new Date().getFullYear()} Smokin&apos; Aces Motorcycle Apparel. All rights reserved.
-            </p>
+            <div className="flex flex-col items-center md:items-start gap-2">
+              <p className="text-sm text-[var(--color-ink-muted)]">
+                © {new Date().getFullYear()} Smokin&apos; Aces Motorcycle Apparel. All rights reserved.
+              </p>
+              <p className="text-xs text-[var(--color-ink-muted)]">
+                Built by{" "}
+                <a
+                  href="https://universalappstudios.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[var(--color-accent)] hover:underline font-medium"
+                >
+                  Universal App Studios
+                </a>
+              </p>
+            </div>
             <div className="flex gap-2">
               <span className="text-xs text-[var(--color-ink-muted)]">We accept:</span>
               <span className="text-xs text-[var(--color-ink)]">Visa · Mastercard · Amex · Discover</span>

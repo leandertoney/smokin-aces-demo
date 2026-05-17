@@ -5,10 +5,9 @@ export function Hero() {
   return (
     <div className="relative h-screen w-full overflow-hidden">
       <div
-        className="absolute inset-0 bg-cover bg-center md:bg-center"
+        className="absolute inset-0 bg-cover hero-bg"
         style={{
-          backgroundImage: "linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('/hero.png')",
-          backgroundPosition: "center 30%",
+          backgroundImage: "linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('/hero.png')",
         }}
       >
         <svg
@@ -23,22 +22,22 @@ export function Hero() {
       </div>
 
       <div className="relative flex h-full flex-col justify-center px-6 md:px-12 lg:px-20">
-        <h1 className="font-display mb-4 text-4xl uppercase leading-none tracking-tight text-white sm:text-5xl md:text-6xl lg:text-7xl hero-title">
+        <h1 className="font-display mb-6 text-4xl sm:text-5xl md:text-6xl lg:text-7xl uppercase leading-[1.1] tracking-tight text-white hero-title">
           <span className="block hero-line-1">
-            BUILT BY <span className="relative inline-block font-black text-[var(--color-accent)] hero-emphasis">
-              RIDERS
-              <span className="absolute bottom-0 left-0 right-0 h-1 bg-[var(--color-accent)]"></span>
-            </span>.
+            BUILT BY <span className="relative inline-block text-[var(--color-accent)] hero-emphasis">
+              RIDERS.
+              <span className="hero-underline"></span>
+            </span>
           </span>
           <span className="block hero-line-2">
-            FOR <span className="relative inline-block font-black text-[var(--color-accent)] hero-emphasis">
-              RIDERS
-              <span className="absolute bottom-0 left-0 right-0 h-1 bg-[var(--color-accent)]"></span>
-            </span>.
+            FOR <span className="relative inline-block text-[var(--color-accent)] hero-emphasis">
+              RIDERS.
+              <span className="hero-underline"></span>
+            </span>
           </span>
         </h1>
-        <p className="mb-8 max-w-xl text-base text-white/90 sm:text-lg md:text-xl hero-subtitle">
-          <span className="font-bold text-white">Premium leathers.</span> <span className="font-bold text-white">Trusted helmets.</span> <span className="font-semibold">Gear that protects you on every ride.</span>
+        <p className="mb-8 max-w-2xl text-lg sm:text-xl md:text-2xl text-white/90 leading-relaxed hero-subtitle">
+          Premium leathers. Trusted helmets. Gear that protects.
         </p>
         <div className="flex flex-wrap gap-3 sm:gap-4 hero-cta">
           <Link
