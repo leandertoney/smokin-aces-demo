@@ -29,7 +29,7 @@ export default function AboutPage() {
             </p>
           </div>
 
-          <div className="mt-12 space-y-8 border-t border-[var(--color-border)] pt-12">
+          <div className="mt-12 space-y-8 pt-12">
             <div>
               <h2 className="mb-4 text-lg font-semibold uppercase tracking-wide text-[var(--color-ink)]">
                 Shipping & Returns

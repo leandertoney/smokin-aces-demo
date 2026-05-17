@@ -33,7 +33,7 @@ const socialLinks = [
 
 export function Footer() {
   return (
-    <footer className="border-t border-[var(--color-border)] bg-[var(--color-surface)] pt-16 pb-8">
+    <footer className="bg-[var(--color-surface)] pt-16 pb-8 mt-16">
       <Container>
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
           <div>
@@ -117,7 +117,7 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 border-t border-[var(--color-border)] pt-8">
+        <div className="mt-12 pt-8">
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
             <p className="text-sm text-[var(--color-ink-muted)]">
               © {new Date().getFullYear()} Smokin&apos; Aces Motorcycle Apparel. All rights reserved.

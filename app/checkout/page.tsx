@@ -85,7 +85,7 @@ export default function CheckoutPage() {
                     <span className="text-[var(--color-ink-muted)]">Shipping</span>
                     <span className="text-[var(--color-ink)]">{sub >= 75 ? "FREE" : "$9.99"}</span>
                   </div>
-                  <div className="border-t border-[var(--color-border)] pt-2 flex justify-between text-lg font-semibold">
+                  <div className="pt-2 flex justify-between text-lg font-semibold">
                     <span className="text-[var(--color-ink)]">Total</span>
                     <span className="text-[var(--color-ink)]">
                       ${(sub + (sub >= 75 ? 0 : 9.99)).toFixed(2)}

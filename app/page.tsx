@@ -18,14 +18,14 @@ export default async function Home() {
       <CategoryGrid />
       <FeaturedRail />
 
-      <section className="border-t border-[var(--color-border)] bg-[var(--color-surface)] py-16 md:py-24">
+      <section className="bg-[var(--color-surface)] py-16 md:py-24">
         <Container>
           <SectionHeader title="BESTSELLERS" />
           <ProductGrid products={bestsellers} />
         </Container>
       </section>
 
-      <section className="border-t border-[var(--color-border)] bg-[var(--color-bg)] py-12 md:py-16">
+      <section className="bg-[var(--color-bg)] py-12 md:py-16">
         <Container>
           <div className="text-center">
             <p className="mb-4 text-sm uppercase tracking-wide text-[var(--color-ink-muted)]">
@@ -48,7 +48,7 @@ export default async function Home() {
         </Container>
       </section>
 
-      <section className="border-t border-[var(--color-border)] bg-[var(--color-surface)] py-16 md:py-24">
+      <section className="bg-[var(--color-surface)] py-16 md:py-24">
         <Container>
           <div className="mx-auto max-w-xl text-center">
             <h2 className="font-display mb-4 text-4xl uppercase tracking-tight text-[var(--color-ink)] md:text-5xl">

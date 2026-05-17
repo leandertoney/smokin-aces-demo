@@ -11,7 +11,7 @@ export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 border-b border-[var(--color-border)] bg-[var(--color-bg)]">
+    <header className="sticky top-0 z-50 bg-[var(--color-bg)]">
       <Container>
         <div className="flex h-16 items-center justify-between lg:h-20">
           <button
@@ -77,7 +77,7 @@ export function Header() {
       </Container>
 
       {mobileMenuOpen && (
-        <div className="border-t border-[var(--color-border)] bg-[var(--color-surface)] lg:hidden">
+        <div className="bg-[var(--color-surface)] lg:hidden">
           <Container>
             <nav className="py-4">
               <ul className="space-y-4">

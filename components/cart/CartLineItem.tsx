@@ -15,7 +15,7 @@ export function CartLineItem({
   onRemove: (variantId: number) => void;
 }) {
   return (
-    <div className="flex gap-4 border-b border-[var(--color-border)] py-4">
+    <div className="flex gap-4 py-4">
       <Link
         href={`/products/${item.productHandle}`}
         className="relative h-24 w-24 flex-shrink-0 overflow-hidden rounded bg-[var(--color-surface)]"

@@ -77,7 +77,7 @@ export default function CartPage() {
                 <FreeShipBar subtotal={sub} />
               </div>
 
-              <div className="mb-6 border-t border-[var(--color-border)] pt-4">
+              <div className="mb-6 pt-4">
                 <div className="flex justify-between text-lg font-semibold">
                   <span className="text-[var(--color-ink)]">Total</span>
                   <span className="text-[var(--color-ink)]">${sub.toFixed(2)}</span>

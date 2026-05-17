@@ -117,14 +117,14 @@ export default function ProductPage({
               Add to Cart · {formatPrice(price * quantity)}
             </button>
 
-            <div className="space-y-2 border-t border-[var(--color-border)] pt-6 text-xs text-[var(--color-ink-muted)]">
+            <div className="space-y-2 pt-6 text-xs text-[var(--color-ink-muted)]">
               <p>✓ Free shipping over $75</p>
               <p>✓ 30-day returns on unworn items</p>
               <p>✓ Secure checkout</p>
             </div>
 
             {product.description && (
-              <div className="border-t border-[var(--color-border)] pt-6">
+              <div className="pt-6">
                 <h3 className="mb-3 text-sm font-semibold uppercase tracking-wide text-[var(--color-ink)]">
                   Description
                 </h3>

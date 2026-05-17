@@ -55,7 +55,7 @@ export function CartSheet() {
               ))}
             </div>
 
-            <div className="space-y-4 border-t border-[var(--color-border)] pt-4">
+            <div className="space-y-4 pt-4">
               <FreeShipBar subtotal={sub} />
 
               <div className="flex items-center justify-between text-lg">

@@ -7,7 +7,7 @@ export function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: "linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_124415.jpg?v=1778159132')",
+          backgroundImage: "linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('/hero.png')",
         }}
       >
         <svg
