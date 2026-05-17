@@ -7,7 +7,7 @@ export function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: "linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260413_155026.jpg?v=1778536863')",
+          backgroundImage: "linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('https://cdn.shopify.com/s/files/1/0809/4967/4212/files/20260419_124415.jpg?v=1778159132')",
         }}
       >
         <svg
@@ -23,12 +23,12 @@ export function Hero() {
 
       <Container className="relative flex h-full flex-col justify-center">
         <h1 className="font-display mb-4 text-5xl uppercase leading-none tracking-tight text-white md:text-6xl lg:text-7xl">
-          GEAR UP.
+          BUILT BY RIDERS.
           <br />
-          RIDE LOUD.
+          FOR RIDERS.
         </h1>
         <p className="mb-8 max-w-xl text-lg text-white/90 md:text-xl">
-          Helmets, leathers, and the small things that make a ride yours.
+          Premium leathers, trusted helmets, and gear we put on our own bikes. No markup games. Free shipping over $75.
         </p>
         <div className="flex flex-wrap gap-4">
           <Link
