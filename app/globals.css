@@ -77,11 +77,11 @@ body {
   letter-spacing: 0.01em;
 }
 
-/* Logo animation */
-@keyframes fadeInSlide {
+/* Hero Text Animations */
+@keyframes heroFadeInUp {
   from {
     opacity: 0;
-    transform: translateY(-10px);
+    transform: translateY(30px);
   }
   to {
     opacity: 1;
@@ -89,16 +89,54 @@ body {
   }
 }
 
-.logo-animated {
-  animation: fadeInSlide 0.6s ease-out;
+@keyframes heroEmphasisPulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
 }
 
-.logo-animated span:first-child {
-  animation: fadeInSlide 0.6s ease-out;
+@keyframes underlineExpand {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
 }
 
-.logo-animated span:last-child {
-  animation: fadeInSlide 0.6s ease-out 0.15s backwards;
+.hero-title {
+  animation: heroFadeInUp 0.8s ease-out;
+}
+
+.hero-line-1 {
+  display: block;
+  animation: heroFadeInUp 0.8s ease-out 0.1s backwards;
+}
+
+.hero-line-2 {
+  display: block;
+  animation: heroFadeInUp 0.8s ease-out 0.3s backwards;
+}
+
+.hero-emphasis {
+  animation: heroEmphasisPulse 2s ease-in-out infinite;
+  text-shadow: 0 0 20px rgba(234, 88, 12, 0.6), 0 0 40px rgba(234, 88, 12, 0.3);
+}
+
+.hero-emphasis span {
+  animation: underlineExpand 0.6s ease-out 0.6s backwards;
+  display: block;
+}
+
+.hero-subtitle {
+  animation: heroFadeInUp 0.8s ease-out 0.5s backwards;
+}
+
+.hero-cta {
+  animation: heroFadeInUp 0.8s ease-out 0.7s backwards;
 }
 
 /* Brand Marquee Animation */

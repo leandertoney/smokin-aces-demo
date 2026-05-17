@@ -26,7 +26,7 @@ export function Header() {
             )}
           </button>
 
-          <Link href="/" className="font-display text-2xl uppercase tracking-tight text-white lg:text-3xl logo-animated group">
+          <Link href="/" className="font-display text-2xl uppercase tracking-tight text-white lg:text-3xl group">
             <span className="inline-block">SMOKIN&apos;</span>{" "}
             <span className="inline-block text-[var(--color-accent)] transition-colors group-hover:text-white">ACES</span>
           </Link>
